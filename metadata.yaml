@@ -1,0 +1,30 @@
+_repo: Om-viljans-frihetEtt-f-redrag_18017
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schéele, Frans von
+    aliases:
+    - Von Schéele, Frans
+    - Scheele, Frans von
+    birthdate: 1853
+    deathdate: 1931
+    gutenberg_agent_id: '7753'
+    url: http://www.gutenberg.org/2009/agents/7753
+    wikipedia: http://sv.wikipedia.org/wiki/Frans_Alexander_von_Scheele
+description: ''
+gutenberg_issued: '2006-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18017'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Free will and determinism'
+title: 'Om viljans frihet: Ett föredrag'
+url: http://www.gutenberg.org/ebooks/18017
