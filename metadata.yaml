@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7753
     wikipedia: http://sv.wikipedia.org/wiki/Frans_Alexander_von_Scheele
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18017#Om-viljans-frihetEtt-f-redrag
 gutenberg_issued: '2006-03-19'
 gutenberg_type: Text
 identifiers:
